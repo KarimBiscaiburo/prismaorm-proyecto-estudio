@@ -1,0 +1,21 @@
+{
+  "name": "prismaorm",
+  "version": "1.0.0",
+  "description": "Es un ORM para simplificar y mejorar la interacción de las aplicaciones con las bases de datos. Posee soporte para TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.19.0",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "prisma": "^5.19.0",
+    "ts-node": "^10.9.2"
+  }
+}
